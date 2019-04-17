@@ -13,7 +13,7 @@ Before I go into any mid-level RE challenge, I like to throw it into Ghidra and 
 
 ## Initial Ghidra inspection
 
-We load the binary into Ghidra and navigate to the main() function.
+We load the binary into Ghidra and navigate to the `main()` function.
 
 ![alt text](https://github.com/Jhayes97/MCCC2017-Walkthrough/blob/master/src/gdb3.PNG "geedeebee")
 
